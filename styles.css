@@ -1,0 +1,21 @@
+body{
+    background-color: #FCFAF4;
+    color: #1B167A;
+    margin: 80px;
+    border: 10px solid #1B167A;
+    padding: 50px;
+}
+.headers {
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+}
+.content {
+    
+    text-indent: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+#logo {
+    height: 100px;
+}
